@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 h1{
     color:aqua
 }
 p{
     color: aquamarine;
+=======
+h1
+{
+  font-size: 20px;  
+}
+p
+{
+    color: yellow;
+>>>>>>> e9bddd4db66c80e7408e4c9ff96ae18da474e091
 }
